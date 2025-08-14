@@ -53,7 +53,7 @@ pong-ia/
 ---
 
 ## 🖼️ Vista previa  
-![Captura del juego](assets/imagen_juego.png)
+![Captura del juego](assets/[imagen_juego.png](https://github.com/MARTHA-1975/juego_de_pong_sencillo/tree/main#:~:text=Hace%2024%20minutos-,imagen_juego.png,-Agregar%20archivos%20mediante))
 ---
 
 ## 🌱 Próximas mejoras  
@@ -71,6 +71,7 @@ Este proyecto es abierto para quienes quieran aprender, mejorar o experimentar. 
 
 ## 📌 Autoría  
 Creado por **Martha ✨** como parte de su bitácora técnica y exploración en desarrollo web y ciberseguridad educativa.
+
 
 
 
