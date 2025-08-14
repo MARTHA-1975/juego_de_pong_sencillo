@@ -54,7 +54,7 @@ pong-ia/
 
 ## 🖼️ Vista previa
 
-![Captura del juego](https://i.imgur.com/tuImagen.png)
+![Captura del juego](https://github.com/MARTHA-1975/juego_de_pong_sencillo/blob/main/imagen_juego.png)
 
 ---
 
@@ -73,6 +73,7 @@ Este proyecto es abierto para quienes quieran aprender, mejorar o experimentar. 
 
 ## 📌 Autoría  
 Creado por **Martha ✨** como parte de su bitácora técnica y exploración en desarrollo web y ciberseguridad educativa.
+
 
 
 
