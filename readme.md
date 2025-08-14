@@ -53,7 +53,7 @@ pong-ia/
 ---
 
 ## 🖼️ Vista previa  
-![Captura del juego](assets/imagen_pong.png)
+![Captura del juego](assets/imagen_juego.png)
 ---
 
 ## 🌱 Próximas mejoras  
@@ -71,5 +71,6 @@ Este proyecto es abierto para quienes quieran aprender, mejorar o experimentar. 
 
 ## 📌 Autoría  
 Creado por **Martha ✨** como parte de su bitácora técnica y exploración en desarrollo web y ciberseguridad educativa.
+
 
 
